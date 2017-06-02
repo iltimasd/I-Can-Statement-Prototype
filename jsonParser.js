@@ -3,7 +3,7 @@
 
  	var people = [];
  	$("#userdata tbody").empty();
- 	$.getJSON('http://127.0.0.1:8080/ican.json', function(data) {
+ 	$.getJSON('https://raw.githubusercontent.com/iltimasd/I-Can-Statement-Prototype/master/ican.json', function(data) {
  		$.each(data.ican, function(i, f) {
 
  			var per=f.Perspective;

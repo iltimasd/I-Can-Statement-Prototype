@@ -1,0 +1,5285 @@
+{
+  "ican":
+  [
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.D"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the components (physical, visual or auditory) of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.D"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the components (physical, visual or auditory) of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.D"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the components (physical, visual or auditory) of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.D"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the components (physical, visual or auditory) of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the components (physical, visual or auditory) of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the components (physical, visual or auditory) of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the components (physical, visual or auditory) of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the components (physical, visual or auditory) of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the components (physical, visual or auditory) of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the components (physical, visual or auditory) of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the components (physical, visual or auditory) of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the components (physical, visual or auditory) of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the components (physical, visual or auditory) of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the components (physical, visual or auditory) of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the components (physical, visual or auditory) of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the components (physical, visual or auditory) of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.PR"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe relationships and patterns in a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.PR"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine relationships and patterns in a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.PR"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret relationships and patterns in a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.PR"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate relationships and patterns in a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding relationships and patterns in a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about relationships and patterns in a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about relationships and patterns in a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about relationships and patterns in a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about relationships and patterns in a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with relationships and patterns in a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with relationships and patterns in a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with relationships and patterns in a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with relationships and patterns in a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with relationships and patterns in a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with relationships and patterns in a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with relationships and patterns in a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the important details of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the important details of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the important details of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the important details of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the important details of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the important details of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the important details of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the important details of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the important details of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the important details of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the important details of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the important details of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the important details of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the important details of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the important details of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the important details of a physical or visual task or routine"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AL.AD"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the detailed structure of a simple sequence or physical task"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AL.AD"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the detailed structure of a simple sequence or physical task"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AL.AD"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the detailed structure of a simple sequence or physical task"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AL.AD"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the detailed structure of a simple sequence or physical task"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the detailed structure of a simple sequence or physical task"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the detailed structure of a simple sequence or physical task"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the detailed structure of a simple sequence or physical task"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the detailed structure of a simple sequence or physical task"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the detailed structure of a simple sequence or physical task"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the detailed structure of a simple sequence or physical task"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the detailed structure of a simple sequence or physical task"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the detailed structure of a simple sequence or physical task"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the detailed structure of a simple sequence or physical task"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the detailed structure of a simple sequence or physical task"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the detailed structure of a simple sequence or physical task"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the detailed structure of a simple sequence or physical task"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"P.S"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the instructions and grammar rules of a visual language in an unplugged situation"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"P.S"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the instructions and grammar rules of a visual language in an unplugged situation"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"P.S"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the instructions and grammar rules of a visual language in an unplugged situation"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"P.S"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the instructions and grammar rules of a visual language in an unplugged situation"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the instructions and grammar rules of a visual language in an unplugged situation"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the instructions and grammar rules of a visual language in an unplugged situation"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the instructions and grammar rules of a visual language in an unplugged situation"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the instructions and grammar rules of a visual language in an unplugged situation"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the instructions and grammar rules of a visual language in an unplugged situation"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the instructions and grammar rules of a visual language in an unplugged situation"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the instructions and grammar rules of a visual language in an unplugged situation"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the instructions and grammar rules of a visual language in an unplugged situation"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the instructions and grammar rules of a visual language in an unplugged situation"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the instructions and grammar rules of a visual language in an unplugged situation"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the instructions and grammar rules of a visual language in an unplugged situation"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the instructions and grammar rules of a visual language in an unplugged situation"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"D.SS"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the means of aquiring physical data I sense"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"D.SS"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the means of aquiring physical data I sense"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"D.SS"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the means of aquiring physical data I sense"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"D.SS"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the means of aquiring physical data I sense"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the means of aquiring physical data I sense"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the means of aquiring physical data I sense"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the means of aquiring physical data I sense"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the means of aquiring physical data I sense"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the means of aquiring physical data I sense"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the means of aquiring physical data I sense"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the means of aquiring physical data I sense"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the means of aquiring physical data I sense"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the means of aquiring physical data I sense"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the means of aquiring physical data I sense"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the means of aquiring physical data I sense"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the means of aquiring physical data I sense"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"N.PI"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the interdependicies within a physical connection between objects"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"N.PI"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the interdependicies within a physical connection between objects"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"N.PI"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the interdependicies within a physical connection between objects"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"N.PI"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the interdependicies within a physical connection between objects"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the interdependicies within a physical connection between objects"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the interdependicies within a physical connection between objects"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the interdependicies within a physical connection between objects"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the interdependicies within a physical connection between objects"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the interdependicies within a physical connection between objects"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the interdependicies within a physical connection between objects"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the interdependicies within a physical connection between objects"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the interdependicies within a physical connection between objects"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the interdependicies within a physical connection between objects"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the interdependicies within a physical connection between objects"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the interdependicies within a physical connection between objects"
+  },
+  {
+     "Perspective":"E"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the interdependicies within a physical connection between objects"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.D"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the components (physical, visual or auditory) of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.D"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the components (physical, visual or auditory) of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.D"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the components (physical, visual or auditory) of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.D"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the components (physical, visual or auditory) of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the components (physical, visual or auditory) of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the components (physical, visual or auditory) of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the components (physical, visual or auditory) of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the components (physical, visual or auditory) of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the components (physical, visual or auditory) of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the components (physical, visual or auditory) of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the components (physical, visual or auditory) of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the components (physical, visual or auditory) of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the components (physical, visual or auditory) of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the components (physical, visual or auditory) of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the components (physical, visual or auditory) of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the components (physical, visual or auditory) of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.PR"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe relationships and patterns in a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.PR"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine relationships and patterns in a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.PR"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret relationships and patterns in a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.PR"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate relationships and patterns in a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding relationships and patterns in a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about relationships and patterns in a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about relationships and patterns in a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about relationships and patterns in a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about relationships and patterns in a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with relationships and patterns in a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with relationships and patterns in a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with relationships and patterns in a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with relationships and patterns in a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with relationships and patterns in a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with relationships and patterns in a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with relationships and patterns in a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the important details of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the important details of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the important details of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the important details of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the important details of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the important details of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the important details of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the important details of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the important details of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the important details of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the important details of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the important details of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the important details of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the important details of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the important details of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the important details of a written task or multi-step project"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.AD"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the detailed structure of a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.AD"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the detailed structure of a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.AD"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the detailed structure of a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.AD"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the detailed structure of a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the detailed structure of a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the detailed structure of a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the detailed structure of a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the detailed structure of a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the detailed structure of a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the detailed structure of a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the detailed structure of a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the detailed structure of a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the detailed structure of a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the detailed structure of a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the detailed structure of a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the detailed structure of a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.CF"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the steps used to carry out a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.CF"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the steps used to carry out a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.CF"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the steps used to carry out a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.CF"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the steps used to carry out a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.CF"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the steps used to carry out a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.CF"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the steps used to carry out a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.CF"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the steps used to carry out a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.CF"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the steps used to carry out a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.CF"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the steps used to carry out a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the steps used to carry out a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the steps used to carry out a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the steps used to carry out a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the steps used to carry out a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the steps used to carry out a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the steps used to carry out a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the steps used to carry out a multi-step process"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.S"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the instructions and grammar rules of a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.S"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the instructions and grammar rules of a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.S"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the instructions and grammar rules of a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.S"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the instructions and grammar rules of a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the instructions and grammar rules of a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the instructions and grammar rules of a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the instructions and grammar rules of a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the instructions and grammar rules of a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the instructions and grammar rules of a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the instructions and grammar rules of a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the instructions and grammar rules of a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the instructions and grammar rules of a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the instructions and grammar rules of a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the instructions and grammar rules of a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the instructions and grammar rules of a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the instructions and grammar rules of a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.DE"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the tools and development environments for a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.DE"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the tools and development environments for a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.DE"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the tools and development environments for a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.DE"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the tools and development environments for a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.DE"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the tools and development environments for a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.DE"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the tools and development environments for a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.DE"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the tools and development environments for a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.DE"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the tools and development environments for a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.DE"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the tools and development environments for a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the tools and development environments for a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the tools and development environments for a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the tools and development environments for a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the tools and development environments for a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the tools and development environments for a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the tools and development environments for a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the tools and development environments for a visual language on a computer"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"D.SS"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the means of aquiring physical data I use for a purpose"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"D.SS"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the means of aquiring physical data I use for a purpose"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"D.SS"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the means of aquiring physical data I use for a purpose"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"D.SS"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the means of aquiring physical data I use for a purpose"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the means of aquiring physical data I use for a purpose"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the means of aquiring physical data I use for a purpose"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the means of aquiring physical data I use for a purpose"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the means of aquiring physical data I use for a purpose"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the means of aquiring physical data I use for a purpose"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the means of aquiring physical data I use for a purpose"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the means of aquiring physical data I use for a purpose"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the means of aquiring physical data I use for a purpose"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the means of aquiring physical data I use for a purpose"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the means of aquiring physical data I use for a purpose"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the means of aquiring physical data I use for a purpose"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the means of aquiring physical data I use for a purpose"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.T"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the importance of security and privacy in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.T"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the importance of security and privacy in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.T"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the importance of security and privacy in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.T"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the importance of security and privacy in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.T"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the importance of security and privacy in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.T"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the importance of security and privacy in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.T"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the importance of security and privacy in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.T"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the importance of security and privacy in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.T"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the importance of security and privacy in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the importance of security and privacy in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the importance of security and privacy in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the importance of security and privacy in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the importance of security and privacy in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the importance of security and privacy in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the importance of security and privacy in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the importance of security and privacy in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.PI"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the interdependicies within the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.PI"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the interdependicies within the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.PI"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the interdependicies within the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.PI"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the interdependicies within the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the interdependicies within the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the interdependicies within the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the interdependicies within the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the interdependicies within the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the interdependicies within the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the interdependicies within the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the interdependicies within the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the interdependicies within the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the interdependicies within the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the interdependicies within the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the interdependicies within the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the interdependicies within the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.M"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the standard ways to publish information or applications in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.M"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the standard ways to publish information or applications in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.M"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the standard ways to publish information or applications in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.M"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the standard ways to publish information or applications in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.M"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the standard ways to publish information or applications in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.M"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the standard ways to publish information or applications in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.M"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the standard ways to publish information or applications in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.M"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the standard ways to publish information or applications in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.M"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the standard ways to publish information or applications in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the standard ways to publish information or applications in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the standard ways to publish information or applications in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the standard ways to publish information or applications in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the standard ways to publish information or applications in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the standard ways to publish information or applications in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the standard ways to publish information or applications in the Internet"
+  },
+  {
+     "Perspective":"C"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the standard ways to publish information or applications in the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.D"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the components (physical, visual or auditory) of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.D"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the components (physical, visual or auditory) of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.D"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the components (physical, visual or auditory) of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.D"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the components (physical, visual or auditory) of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the components (physical, visual or auditory) of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the components (physical, visual or auditory) of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the components (physical, visual or auditory) of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the components (physical, visual or auditory) of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the components (physical, visual or auditory) of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the components (physical, visual or auditory) of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the components (physical, visual or auditory) of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the components (physical, visual or auditory) of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the components (physical, visual or auditory) of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the components (physical, visual or auditory) of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the components (physical, visual or auditory) of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the components (physical, visual or auditory) of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.PR"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe relationships and patterns in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.PR"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine relationships and patterns in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.PR"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret relationships and patterns in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.PR"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate relationships and patterns in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding relationships and patterns in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about relationships and patterns in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about relationships and patterns in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about relationships and patterns in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about relationships and patterns in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with relationships and patterns in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with relationships and patterns in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with relationships and patterns in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with relationships and patterns in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with relationships and patterns in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with relationships and patterns in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with relationships and patterns in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the important details of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the important details of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the important details of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the important details of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the important details of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the important details of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the important details of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the important details of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the important details of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the important details of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the important details of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the important details of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the important details of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the important details of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the important details of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the important details of a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.I"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the parts that are interacted with in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.I"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the parts that are interacted with in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.I"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the parts that are interacted with in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.I"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the parts that are interacted with in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.I"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the parts that are interacted with in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.I"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the parts that are interacted with in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.I"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the parts that are interacted with in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.I"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the parts that are interacted with in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.I"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the parts that are interacted with in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.I"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the parts that are interacted with in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.I"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the parts that are interacted with in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.I"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the parts that are interacted with in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.I"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the parts that are interacted with in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.I"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the parts that are interacted with in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.I"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the parts that are interacted with in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AB.I"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the parts that are interacted with in a computing application or problem"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.AD"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the detailed structure of an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.AD"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the detailed structure of an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.AD"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the detailed structure of an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.AD"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the detailed structure of an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the detailed structure of an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the detailed structure of an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the detailed structure of an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the detailed structure of an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the detailed structure of an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the detailed structure of an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the detailed structure of an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the detailed structure of an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the detailed structure of an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the detailed structure of an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the detailed structure of an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the detailed structure of an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.CF"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the steps used to carry out an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.CF"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the steps used to carry out an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.CF"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the steps used to carry out an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.CF"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the steps used to carry out an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.CF"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the steps used to carry out an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.CF"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the steps used to carry out an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.CF"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the steps used to carry out an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.CF"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the steps used to carry out an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.CF"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the steps used to carry out an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the steps used to carry out an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the steps used to carry out an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the steps used to carry out an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the steps used to carry out an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the steps used to carry out an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the steps used to carry out an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the steps used to carry out an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe information passed into, modified, and returned by an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine information passed into, modified, and returned by an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret information passed into, modified, and returned by an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate information passed into, modified, and returned by an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding information passed into, modified, and returned by an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about information passed into, modified, and returned by an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about information passed into, modified, and returned by an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about information passed into, modified, and returned by an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about information passed into, modified, and returned by an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with information passed into, modified, and returned by an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with information passed into, modified, and returned by an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with information passed into, modified, and returned by an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with information passed into, modified, and returned by an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with information passed into, modified, and returned by an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with information passed into, modified, and returned by an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with information passed into, modified, and returned by an open-ended process"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.S"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the instructions and grammar rules of a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.S"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the instructions and grammar rules of a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.S"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the instructions and grammar rules of a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.S"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the instructions and grammar rules of a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the instructions and grammar rules of a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the instructions and grammar rules of a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the instructions and grammar rules of a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the instructions and grammar rules of a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the instructions and grammar rules of a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the instructions and grammar rules of a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the instructions and grammar rules of a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the instructions and grammar rules of a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the instructions and grammar rules of a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the instructions and grammar rules of a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the instructions and grammar rules of a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the instructions and grammar rules of a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.DE"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the tools and development environments for a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.DE"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the tools and development environments for a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.DE"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the tools and development environments for a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.DE"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the tools and development environments for a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.DE"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the tools and development environments for a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.DE"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the tools and development environments for a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.DE"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the tools and development environments for a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.DE"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the tools and development environments for a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.DE"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the tools and development environments for a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the tools and development environments for a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the tools and development environments for a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the tools and development environments for a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the tools and development environments for a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the tools and development environments for a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the tools and development environments for a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the tools and development environments for a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.C"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe how team members work together with a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.C"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine how team members work together with a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.C"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret how team members work together with a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.C"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate how team members work together with a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.C"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding how team members work together with a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.C"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about how team members work together with a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.C"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about how team members work together with a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.C"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about how team members work together with a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.C"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about how team members work together with a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.C"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with how team members work together with a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.C"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with how team members work together with a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.C"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with how team members work together with a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.C"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with how team members work together with a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.C"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with how team members work together with a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.C"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with how team members work together with a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"P.C"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with how team members work together with a language used for a specific purpose"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.SS"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the means of aquiring data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.SS"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the means of aquiring data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.SS"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the means of aquiring data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.SS"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the means of aquiring data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the means of aquiring data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the means of aquiring data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the means of aquiring data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the means of aquiring data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the means of aquiring data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the means of aquiring data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the means of aquiring data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the means of aquiring data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the means of aquiring data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the means of aquiring data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the means of aquiring data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the means of aquiring data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.DAS"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the methods of storing and conceptualizing data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.DAS"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the methods of storing and conceptualizing data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.DAS"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the methods of storing and conceptualizing data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.DAS"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the methods of storing and conceptualizing data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.DAS"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the methods of storing and conceptualizing data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.DAS"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the methods of storing and conceptualizing data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.DAS"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the methods of storing and conceptualizing data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.DAS"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the methods of storing and conceptualizing data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.DAS"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the methods of storing and conceptualizing data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.DAS"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the methods of storing and conceptualizing data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.DAS"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the methods of storing and conceptualizing data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.DAS"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the methods of storing and conceptualizing data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.DAS"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the methods of storing and conceptualizing data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.DAS"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the methods of storing and conceptualizing data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.DAS"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the methods of storing and conceptualizing data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.DAS"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the methods of storing and conceptualizing data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.TV"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe how to envision and change data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.TV"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine how to envision and change data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.TV"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret how to envision and change data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.TV"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate how to envision and change data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.TV"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding how to envision and change data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.TV"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about how to envision and change data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.TV"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about how to envision and change data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.TV"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about how to envision and change data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.TV"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about how to envision and change data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.TV"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with how to envision and change data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.TV"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with how to envision and change data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.TV"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with how to envision and change data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.TV"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with how to envision and change data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.TV"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with how to envision and change data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.TV"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with how to envision and change data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"D.TV"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with how to envision and change data used for an open-ended issue"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.T"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the importance of security and privacy in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.T"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the importance of security and privacy in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.T"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the importance of security and privacy in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.T"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the importance of security and privacy in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.T"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the importance of security and privacy in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.T"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the importance of security and privacy in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.T"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the importance of security and privacy in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.T"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the importance of security and privacy in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.T"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the importance of security and privacy in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the importance of security and privacy in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the importance of security and privacy in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the importance of security and privacy in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the importance of security and privacy in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the importance of security and privacy in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the importance of security and privacy in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the importance of security and privacy in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.PI"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the interdependicies within user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.PI"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the interdependicies within user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.PI"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the interdependicies within user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.PI"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the interdependicies within user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the interdependicies within user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the interdependicies within user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the interdependicies within user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the interdependicies within user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the interdependicies within user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the interdependicies within user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the interdependicies within user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the interdependicies within user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the interdependicies within user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the interdependicies within user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the interdependicies within user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the interdependicies within user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.M"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the standard ways to publish information or applications in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.M"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the standard ways to publish information or applications in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.M"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the standard ways to publish information or applications in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.M"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the standard ways to publish information or applications in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.M"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the standard ways to publish information or applications in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.M"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the standard ways to publish information or applications in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.M"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the standard ways to publish information or applications in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.M"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the standard ways to publish information or applications in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.M"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the standard ways to publish information or applications in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the standard ways to publish information or applications in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the standard ways to publish information or applications in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the standard ways to publish information or applications in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the standard ways to publish information or applications in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the standard ways to publish information or applications in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the standard ways to publish information or applications in user interactions with the Internet"
+  },
+  {
+     "Perspective":"I"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the standard ways to publish information or applications in user interactions with the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.D"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the components (physical, visual or auditory) of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.D"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the components (physical, visual or auditory) of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.D"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the components (physical, visual or auditory) of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.D"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the components (physical, visual or auditory) of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the components (physical, visual or auditory) of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the components (physical, visual or auditory) of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the components (physical, visual or auditory) of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the components (physical, visual or auditory) of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.D"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the components (physical, visual or auditory) of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the components (physical, visual or auditory) of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the components (physical, visual or auditory) of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the components (physical, visual or auditory) of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the components (physical, visual or auditory) of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the components (physical, visual or auditory) of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the components (physical, visual or auditory) of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.D"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the components (physical, visual or auditory) of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.PR"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe relationships and patterns in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.PR"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine relationships and patterns in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.PR"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret relationships and patterns in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.PR"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate relationships and patterns in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding relationships and patterns in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about relationships and patterns in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about relationships and patterns in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about relationships and patterns in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.PR"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about relationships and patterns in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with relationships and patterns in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with relationships and patterns in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with relationships and patterns in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with relationships and patterns in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with relationships and patterns in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with relationships and patterns in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.PR"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with relationships and patterns in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the important details of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the important details of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the important details of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the important details of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the important details of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the important details of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the important details of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the important details of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the important details of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the important details of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the important details of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the important details of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the important details of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the important details of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the important details of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.GDR"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the important details of a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.M"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the parts of a system that work together in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.M"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the parts of a system that work together in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.M"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the parts of a system that work together in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.M"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the parts of a system that work together in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.M"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the parts of a system that work together in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.M"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the parts of a system that work together in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.M"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the parts of a system that work together in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.M"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the parts of a system that work together in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.M"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the parts of a system that work together in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.M"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the parts of a system that work together in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.M"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the parts of a system that work together in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.M"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the parts of a system that work together in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.M"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the parts of a system that work together in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.M"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the parts of a system that work together in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.M"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the parts of a system that work together in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.M"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the parts of a system that work together in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.I"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the parts that are interacted with in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.I"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the parts that are interacted with in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.I"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the parts that are interacted with in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.I"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the parts that are interacted with in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.I"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the parts that are interacted with in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.I"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the parts that are interacted with in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.I"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the parts that are interacted with in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.I"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the parts that are interacted with in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.I"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the parts that are interacted with in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.I"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the parts that are interacted with in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.I"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the parts that are interacted with in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.I"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the parts that are interacted with in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.I"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the parts that are interacted with in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.I"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the parts that are interacted with in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.I"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the parts that are interacted with in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AB.I"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the parts that are interacted with in a computing issue that impacts me"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.AD"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the detailed structure of a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.AD"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the detailed structure of a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.AD"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the detailed structure of a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.AD"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the detailed structure of a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the detailed structure of a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the detailed structure of a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the detailed structure of a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the detailed structure of a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.AD"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the detailed structure of a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the detailed structure of a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the detailed structure of a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the detailed structure of a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the detailed structure of a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the detailed structure of a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the detailed structure of a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.AD"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the detailed structure of a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.CF"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the steps used to carry out a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.CF"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the steps used to carry out a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.CF"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the steps used to carry out a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.CF"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the steps used to carry out a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.CF"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the steps used to carry out a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.CF"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the steps used to carry out a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.CF"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the steps used to carry out a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.CF"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the steps used to carry out a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.CF"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the steps used to carry out a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the steps used to carry out a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the steps used to carry out a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the steps used to carry out a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the steps used to carry out a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the steps used to carry out a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the steps used to carry out a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.CF"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the steps used to carry out a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe information passed into, modified, and returned by a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine information passed into, modified, and returned by a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret information passed into, modified, and returned by a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate information passed into, modified, and returned by a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding information passed into, modified, and returned by a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about information passed into, modified, and returned by a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about information passed into, modified, and returned by a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about information passed into, modified, and returned by a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about information passed into, modified, and returned by a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with information passed into, modified, and returned by a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with information passed into, modified, and returned by a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with information passed into, modified, and returned by a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with information passed into, modified, and returned by a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with information passed into, modified, and returned by a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with information passed into, modified, and returned by a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.IVO"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with information passed into, modified, and returned by a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.A"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the where, when, and why specific steps were/are used in a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.A"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the where, when, and why specific steps were/are used in a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.A"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the where, when, and why specific steps were/are used in a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.A"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the where, when, and why specific steps were/are used in a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.A"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the where, when, and why specific steps were/are used in a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.A"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the where, when, and why specific steps were/are used in a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.A"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the where, when, and why specific steps were/are used in a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.A"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the where, when, and why specific steps were/are used in a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.A"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the where, when, and why specific steps were/are used in a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.A"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the where, when, and why specific steps were/are used in a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.A"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the where, when, and why specific steps were/are used in a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.A"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the where, when, and why specific steps were/are used in a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.A"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the where, when, and why specific steps were/are used in a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.A"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the where, when, and why specific steps were/are used in a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.A"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the where, when, and why specific steps were/are used in a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"AL.A"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the where, when, and why specific steps were/are used in a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.L"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe why the selected language is an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.L"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine why the selected language is an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.L"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret why the selected language is an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.L"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate why the selected language is an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.L"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding why the selected language is an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.L"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about why the selected language is an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.L"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about why the selected language is an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.L"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about why the selected language is an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.L"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about why the selected language is an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.L"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with why the selected language is an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.L"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with why the selected language is an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.L"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with why the selected language is an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.L"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with why the selected language is an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.L"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with why the selected language is an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.L"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with why the selected language is an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.L"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with why the selected language is an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.S"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the instructions and grammar rules of an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.S"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the instructions and grammar rules of an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.S"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the instructions and grammar rules of an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.S"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the instructions and grammar rules of an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the instructions and grammar rules of an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the instructions and grammar rules of an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the instructions and grammar rules of an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the instructions and grammar rules of an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.S"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the instructions and grammar rules of an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the instructions and grammar rules of an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the instructions and grammar rules of an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the instructions and grammar rules of an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the instructions and grammar rules of an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the instructions and grammar rules of an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the instructions and grammar rules of an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.S"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the instructions and grammar rules of an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.DE"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the tools and development environments for an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.DE"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the tools and development environments for an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.DE"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the tools and development environments for an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.DE"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the tools and development environments for an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.DE"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the tools and development environments for an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.DE"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the tools and development environments for an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.DE"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the tools and development environments for an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.DE"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the tools and development environments for an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.DE"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the tools and development environments for an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the tools and development environments for an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the tools and development environments for an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the tools and development environments for an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the tools and development environments for an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the tools and development environments for an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the tools and development environments for an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.DE"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the tools and development environments for an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.C"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe how team members work together with an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.C"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine how team members work together with an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.C"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret how team members work together with an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.C"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate how team members work together with an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.C"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding how team members work together with an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.C"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about how team members work together with an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.C"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about how team members work together with an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.C"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about how team members work together with an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.C"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about how team members work together with an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.C"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with how team members work together with an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.C"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with how team members work together with an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.C"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with how team members work together with an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.C"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with how team members work together with an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.C"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with how team members work together with an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.C"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with how team members work together with an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"P.C"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with how team members work together with an appropriate language for a specific issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.SS"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the means of aquiring data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.SS"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the means of aquiring data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.SS"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the means of aquiring data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.SS"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the means of aquiring data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the means of aquiring data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the means of aquiring data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the means of aquiring data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the means of aquiring data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.SS"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the means of aquiring data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the means of aquiring data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the means of aquiring data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the means of aquiring data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the means of aquiring data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the means of aquiring data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the means of aquiring data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.SS"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the means of aquiring data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.DAS"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the methods of storing and conceptualizing data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.DAS"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the methods of storing and conceptualizing data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.DAS"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the methods of storing and conceptualizing data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.DAS"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the methods of storing and conceptualizing data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.DAS"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the methods of storing and conceptualizing data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.DAS"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the methods of storing and conceptualizing data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.DAS"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the methods of storing and conceptualizing data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.DAS"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the methods of storing and conceptualizing data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.DAS"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the methods of storing and conceptualizing data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.DAS"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the methods of storing and conceptualizing data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.DAS"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the methods of storing and conceptualizing data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.DAS"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the methods of storing and conceptualizing data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.DAS"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the methods of storing and conceptualizing data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.DAS"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the methods of storing and conceptualizing data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.DAS"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the methods of storing and conceptualizing data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.DAS"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the methods of storing and conceptualizing data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.TV"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe how to envision and change data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.TV"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine how to envision and change data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.TV"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret how to envision and change data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.TV"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate how to envision and change data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.TV"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding how to envision and change data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.TV"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about how to envision and change data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.TV"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about how to envision and change data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.TV"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about how to envision and change data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.TV"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about how to envision and change data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.TV"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with how to envision and change data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.TV"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with how to envision and change data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.TV"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with how to envision and change data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.TV"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with how to envision and change data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.TV"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with how to envision and change data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.TV"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with how to envision and change data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.TV"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with how to envision and change data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.FLA"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the ways to automate and use feedback from data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.FLA"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the ways to automate and use feedback from data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.FLA"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the ways to automate and use feedback from data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.FLA"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the ways to automate and use feedback from data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.FLA"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the ways to automate and use feedback from data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.FLA"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the ways to automate and use feedback from data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.FLA"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the ways to automate and use feedback from data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.FLA"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the ways to automate and use feedback from data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.FLA"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the ways to automate and use feedback from data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.FLA"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the ways to automate and use feedback from data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.FLA"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the ways to automate and use feedback from data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.FLA"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the ways to automate and use feedback from data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.FLA"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the ways to automate and use feedback from data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.FLA"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the ways to automate and use feedback from data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.FLA"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the ways to automate and use feedback from data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"D.FLA"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the ways to automate and use feedback from data used for a systemic issue"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.T"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the importance of security and privacy in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.T"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the importance of security and privacy in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.T"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the importance of security and privacy in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.T"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the importance of security and privacy in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.T"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the importance of security and privacy in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.T"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the importance of security and privacy in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.T"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the importance of security and privacy in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.T"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the importance of security and privacy in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.T"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the importance of security and privacy in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the importance of security and privacy in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the importance of security and privacy in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the importance of security and privacy in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the importance of security and privacy in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the importance of security and privacy in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the importance of security and privacy in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.T"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the importance of security and privacy in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PRO"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the protocols needed to send and receive data in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PRO"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the protocols needed to send and receive data in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PRO"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the protocols needed to send and receive data in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PRO"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the protocols needed to send and receive data in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PRO"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the protocols needed to send and receive data in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PRO"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the protocols needed to send and receive data in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PRO"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the protocols needed to send and receive data in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PRO"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the protocols needed to send and receive data in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PRO"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the protocols needed to send and receive data in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PRO"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the protocols needed to send and receive data in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PRO"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the protocols needed to send and receive data in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PRO"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the protocols needed to send and receive data in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PRO"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the protocols needed to send and receive data in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PRO"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the protocols needed to send and receive data in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PRO"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the protocols needed to send and receive data in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PRO"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the protocols needed to send and receive data in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PI"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the interdependicies within the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PI"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the interdependicies within the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PI"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the interdependicies within the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PI"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the interdependicies within the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the interdependicies within the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the interdependicies within the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the interdependicies within the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the interdependicies within the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PI"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the interdependicies within the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the interdependicies within the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the interdependicies within the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the interdependicies within the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the interdependicies within the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the interdependicies within the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the interdependicies within the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.PI"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the interdependicies within the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.M"
+    ,"Practice":"AN.1"
+    ,"Statement":"I can describe the standard ways to publish information or applications in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.M"
+    ,"Practice":"AN.2"
+    ,"Statement":"I can examine the standard ways to publish information or applications in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.M"
+    ,"Practice":"AN.3"
+    ,"Statement":"I can interpret the standard ways to publish information or applications in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.M"
+    ,"Practice":"AN.4"
+    ,"Statement":"I can evaluate the standard ways to publish information or applications in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.M"
+    ,"Practice":"CO.1"
+    ,"Statement":"I can determine what computing concept was used in my project regarding the standard ways to publish information or applications in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.M"
+    ,"Practice":"CO.2"
+    ,"Statement":"I can consider who would be interested my project about the standard ways to publish information or applications in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.M"
+    ,"Practice":"CO.3"
+    ,"Statement":"I can select where and when to share my project about the standard ways to publish information or applications in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.M"
+    ,"Practice":"CO.4"
+    ,"Statement":"I can explain how and why a computing concept related to my project about the standard ways to publish information or applications in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.M"
+    ,"Practice":"CO.5"
+    ,"Statement":"I can present and critique my project about the standard ways to publish information or applications in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.1"
+    ,"Statement":"I can identify the needs and constraints of a problem dealing with the standard ways to publish information or applications in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.2"
+    ,"Statement":"I can research a problem dealing with the standard ways to publish information or applications in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.3"
+    ,"Statement":"I can imagine a possible solution to a problem dealing with the standard ways to publish information or applications in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.4"
+    ,"Statement":"I can plan how to solve a problem dealing with the standard ways to publish information or applications in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.5"
+    ,"Statement":"I can create a prototype that solves a problem dealing with the standard ways to publish information or applications in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.6"
+    ,"Statement":"I can test my prototype that solves a problem dealing with the standard ways to publish information or applications in the governance of the Internet"
+  },
+  {
+     "Perspective":"Z"
+    ,"Concept":"N.M"
+    ,"Practice":"PR.7"
+    ,"Statement":"I can improve my prototype that solves a problem dealing with the standard ways to publish information or applications in the governance of the Internet"
+  }
+  ]
+}

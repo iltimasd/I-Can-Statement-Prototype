@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title></title>
+</head>
+<body>
+	<script src="jquery-3.2.1.js"></script>
+	<script src="dropdown.js"></script>
+	<script src="jsonParser.js"></script>
+	<script type="text/javascript" src="http://127.0.0.1:8080/ican.json"></script>
+	<div id="leftcol">
+		<div id="container">
+			<div id="statement">
+				As a(n)
+				<div class="dropdown">
+					<button id="perspective" class="dropbtn perspective" style="">perspective</button>
+					<div class="dropdown-content ">
+						<a href="#" class="e perbtn perspectiveinvert">Explorer</a>
+						<a href="#" class="c perbtn perspectiveinvert">Creatoe</a>
+						<a href="#" class="i perbtn perspectiveinvert">Inovator</a>
+						<a href="#" class="z perbtn perspectiveinvert">Citizen</a>
+					</div>
+				</div>
+				I can 
+				<div class="dropdown">
+					<button id="practice" class="dropbtn practice">practice</button>
+					<div class="dropdown-content">
+						<a href="#" class="an prbtn practiceinvert">analyze</a>
+						<a href="#" class="co prbtn practiceinvert">communicate</a>
+						<a href="#" class="pr prbtn practiceinvert">prototype</a>
+					</div>
+				</div>
+				<div class="dropdown">
+					<button id="concept" class="dropbtn concept" style="">concept</button>
+					<div class="dropdown-content" >
+						<a href="#" class="ab conbtn conceptinvert">abstractions</a>
+						<a href="#" class="al conbtn conceptinvert">algorithms</a>
+						<a href="#" class="p conbtn conceptinvert">programming</a>
+						<a href="#" class="d conbtn conceptinvert">data</a>
+						<a href="#" class="n conbtn conceptinvert">networks</a>
+					</div>
+					</div>
+			</div>
+		</div>
+
+<div class="wrapper">
+<div class="profile">
+   <table id= "userdata" border="2">
+  <thead>
+            <th style="display: none;">First Name</th>
+       
+        </thead>
+      <tbody>
+
+       </tbody>
+   </table>
+
+</div>
+</div>
+
+	</div>
+	<div class="original">
+		<p class="old">info here</p>
+	</div>
+	
+
+
+
+
+	
+	<p class="ancon" hidden="hidden">People of all backgrounds must evaluate and respond to the ways that computing is affecting their lives, their families and friends, and their communities. Government, industry, start-ups, non-profits, researchers, artists and many others use the principles of computing to accomplish a fast-growing number of things. Some of these things we may think of as beneficial or malicious, but others we’re still not sure how to evaluate.</p>
+	<p class="cocon" hidden="hidden">Postsecondary pursuits, whether it be college or career, will require students to communicate the complex thought processes behind their work with computer science. Students will work with collaborators, professors, advisors, project leaders, customers, and many others on issues or projects around computing. These people will be interested in the how and why behind students projects or thoughts.</p>
+	<p class="prcon" hidden="hidden">The goal of the prototyping practice is to help students build a mental model of how to use a computer to create new applications. Computer applications or programs like Word, Photoshop, or Chrome define how we use computers. When we practice prototyping computing projects, we are creating our own applications, using computers in different ways than when we fire up our word processor or web browser.</p>
+
+	<p class="abcon" hidden="hidden">An abstraction represents a simplified idea or problem derived by ignoring details and using patterns or general characteristics. A simple example of a CS abstraction is a programming language, they allow programmers to give complex instructions to computers without worrying about the bits and bytes!</p>
+	<p class="alcon" hidden="hidden">Algorithms are generalized and repeatable sequence of instructions that achieve a particular purpose and output, given a set of inputs. It's important to understand when, why, and how to implement an algorithm and to consider who or what might be affected.</p>
+	<p class="pcon" hidden="hidden">Programming is about giving instructions to computers. Programming can be done through a constantly changing set of languages and frameworks. Each language is translated from human-readable code into machine code that can be executed by the computer’s central processing unit, CPU.</p>
+	<p class="dcon" hidden="hidden">Computers can be used to collect, store, and analyze massive amounts of data quickly and reliably. Computers programs can use data to make decisions or automate tasks. </p>
+	<p class="ncon" hidden="hidden">Networks, like the Internet, allow computers to interface with other computers through a set of rules, or protocols, that define how computers send and receive data. Protocols and standards are created and agreed upon by groups of people.</p>
+
+	<p class="econ perspectiveinvert" hidden="hidden">Students begin their CS journey as Explorers playing with computing. To make CS real to them, Explorers manipulate computing applications, problems, and topics with physical or visual manifestations.</p>
+	<p class="ccon" hidden="hidden">Students continue their CS journey as Creators expressing their ideas through computing. Intrigued by the possibilities of computing, Creators use computing to represent their ideas, thoughts, or interests.</p>
+	<p class="icon" hidden="hidden">Innovators engage with open-ended topics connected to the work of individuals in public, private and open-source domains of CS practice.</p>
+	<p class="zcon" hidden="hidden">Citizens examine and try to influence the intersection of computing with social, economic and political systems.</p>
+
+</body>
+</html>

@@ -1,9 +1,10 @@
  function fecthStatement() {
-
-
+theurl="/ican.json";
+console.log(theurl);
  	var people = [];
  	$("#userdata tbody").empty();
- 	$.getJSON('https://raw.githubusercontent.com/iltimasd/I-Can-Statement-Prototype/master/ican.json', function(data) {
+ 	$.getJSON(theurl, function(data) {
+ 		console.log(theurl);
  		$.each(data.ican, function(i, f) {
 
  			var per=f.Perspective;
@@ -15,6 +16,7 @@
  			if(perSelect.localeCompare(per)==0){
  				if(prcSelect.localeCompare(prc)==0){
  					if(conSelect.localeCompare(con)==0){
+ 						$(".tblinfo").css("display","inline");
  						var tblRow = "<tr>" +"<td>" + f.Statement + "</td>" + "</tr>"
  						$(tblRow).appendTo("#userdata tbody");
  					}

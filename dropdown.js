@@ -60,54 +60,80 @@ window.onload = function(){
 			function(){
 				console.log("h");
 				$(".original").css("background-color","purple");
-				$(".original").css("color","white");},
-				function(){
-					$(".original").css("background-color","lightgrey");
-					$(".original").css("color","black");}
-					);
+				$(".original").css("color","white");
+				$(".prcinfo").css("display","none");
+				$(".coninfo").css("display","none");
+			},
+			function(){
+				$(".original").css("background-color","lightgrey");
+				$(".original").css("color","black");
+				$(".prcinfo").css("display","inline");
+				$(".coninfo").css("display","inline");
+
+			}
+			);
 
 		$(".prbtn").hover(
 			function(){
 				console.log("h");
 				$(".original").css("background-color","#4CAF50");
-				$(".original").css("color","white");},
-				function(){
-					$(".original").css("background-color","lightgrey");
-					$(".original").css("color","black");}
-					);
+				$(".original").css("color","white");
+				$(".perinfo").css("display","none");
+				$(".coninfo").css("display","none");
+			},
+
+			function(){
+				$(".original").css("background-color","lightgrey");
+				$(".original").css("color","black");
+				$(".perinfo").css("display","inline");
+				$(".coninfo").css("display","inline");
+			}
+			);
 		$(".conbtn").hover(
 			function(){
 				console.log("h");
 				$(".original").css("background-color","hotpink");
-				$(".original").css("color","white");},
-				function(){
-					$(".original").css("background-color","lightgrey");
-					$(".original").css("color","black");}
-					);
+				$(".original").css("color","white");
+				$(".perinfo").css("display","none");
+				$(".prcinfo").css("display","none");
+			},
+			function(){
+				$(".original").css("background-color","lightgrey");
+				$(".original").css("color","black");
+				$(".perinfo").css("display","inline");
+				$(".prcinfo").css("display","inline");
+			}
+			);
 		//#4CAF50
 
 		$(".prbtn").click(function(){
 			document.getElementById("practice").innerHTML=($(this).html());
 			prcSelect=$(this).attr('class').split(' ')[0];
+			var prccon=prcSelect+"con";
+			console.log(prccon);
+			$(".prcinfo").html($("."+prccon).html());
 			$(".practice").addClass("practiceinvert");
 			$(".practice").removeClass("practice");
-fecthStatement();
-
-
-
+			fecthStatement();
 		});
+
 		$(".conbtn").click(function(){
 			document.getElementById("concept").innerHTML=($(this).html());
+			conSelect=$(this).attr('class').split(' ')[0];
+			var concon=conSelect+"con";
+			$(".coninfo").html($("."+concon).html());
 			$(".concept").addClass("conceptinvert");
 			$(".concept").removeClass("concept");
-			conSelect=$(this).attr('class').split(' ')[0];
-fecthStatement();
+
+			fecthStatement();
 		});
 		$(".perbtn").click(function(){
 			document.getElementById("perspective").innerHTML=($(this).html());
+			perSelect=$(this).attr('class').split(' ')[0];
 			$(".perspective").addClass("perspectiveinvert");
 			$(".perspective").removeClass("perspective");
-			perSelect=$(this).attr('class').split(' ')[0];
+			var percon=perSelect+"con";
+			$(".perinfo").html($("."+percon).html());
 			fecthStatement();
 
 		});

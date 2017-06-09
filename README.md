@@ -5,12 +5,12 @@
 
 ## 8th June User Testing Outcomes/Feedback
 
-- Needs Intro Text
-- Links to Examples
-- Add Favicon
+- Needs Intro Text [#1](/../../issues/1)
+- Links to Examples [#2](/../../issues/2)
+- Add Favicon [#3](/../../issues/3)
 - Cells are unclear
-- Curate statements
-- Contain external page
-- Color Code
-- Sequencing of Cells
-- Ability to print contents as PDF
+- Curate statements [#4](/../../issues/4)
+- Contain external page [#5](/../../issues/5)
+- Color Code [#6](/../../issues/6)
+- Sequencing of Cells [#7](/../../issues/7)
+- Ability to print contents as PDF [#8](/../../issues/8)

@@ -1,5 +1,5 @@
  function fecthStatement() {
-theurl="https://raw.githubusercontent.com/iltimasd/I-Can-Statement-Prototype/master/ican.json";
+theurl="/ican.json";
 console.log(theurl);
  	var people = [];
  	$("#userdata tbody").empty();

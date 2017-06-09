@@ -63,12 +63,15 @@ window.onload = function(){
 				$(".original").css("color","white");
 				$(".prcinfo").css("display","none");
 				$(".coninfo").css("display","none");
+				$(".readMore").css("display","none");
+
 			},
 			function(){
 				$(".original").css("background-color","lightgrey");
 				$(".original").css("color","black");
 				$(".prcinfo").css("display","inline");
 				$(".coninfo").css("display","inline");
+				$(".readMore").css("display","inline");
 
 			}
 			);
@@ -80,6 +83,8 @@ window.onload = function(){
 				$(".original").css("color","white");
 				$(".perinfo").css("display","none");
 				$(".coninfo").css("display","none");
+				$(".readMore").css("display","none");
+
 			},
 
 			function(){
@@ -87,6 +92,8 @@ window.onload = function(){
 				$(".original").css("color","black");
 				$(".perinfo").css("display","inline");
 				$(".coninfo").css("display","inline");
+				$(".readMore").css("display","inline");
+
 			}
 			);
 		$(".conbtn").hover(
@@ -96,12 +103,16 @@ window.onload = function(){
 				$(".original").css("color","white");
 				$(".perinfo").css("display","none");
 				$(".prcinfo").css("display","none");
+				$(".readMore").css("display","none");
+
 			},
 			function(){
 				$(".original").css("background-color","lightgrey");
 				$(".original").css("color","black");
 				$(".perinfo").css("display","inline");
 				$(".prcinfo").css("display","inline");
+				$(".readMore").css("display","inline");
+
 			}
 			);
 		//#4CAF50
@@ -109,7 +120,7 @@ window.onload = function(){
 		$(".prbtn").click(function(){
 			document.getElementById("practice").innerHTML=($(this).html());
 			prcSelect=$(this).attr('class').split(' ')[0];
-			var prccon=prcSelect+"con";
+			var prccon=prcSelect+"con2";
 			console.log(prccon);
 			$(".prcinfo").html($("."+prccon).html());
 			$(".practice").addClass("practiceinvert");
@@ -120,7 +131,7 @@ window.onload = function(){
 		$(".conbtn").click(function(){
 			document.getElementById("concept").innerHTML=($(this).html());
 			conSelect=$(this).attr('class').split(' ')[0];
-			var concon=conSelect+"con";
+			var concon=conSelect+"con2";
 			$(".coninfo").html($("."+concon).html());
 			$(".concept").addClass("conceptinvert");
 			$(".concept").removeClass("concept");
@@ -132,7 +143,7 @@ window.onload = function(){
 			perSelect=$(this).attr('class').split(' ')[0];
 			$(".perspective").addClass("perspectiveinvert");
 			$(".perspective").removeClass("perspective");
-			var percon=perSelect+"con";
+			var percon=perSelect+"con2";
 			$(".perinfo").html($("."+percon).html());
 			fecthStatement();
 
